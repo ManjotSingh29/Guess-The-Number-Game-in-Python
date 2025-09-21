@@ -44,7 +44,7 @@ def answer_Generation():
     Generating the answer to the game using the random function
     """
     global answer
-    answer = random.randint(0,100)
+    answer = random.randint[0,100]
 
 
 
